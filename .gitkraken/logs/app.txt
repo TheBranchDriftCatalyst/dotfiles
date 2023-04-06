@@ -1,0 +1,120 @@
+[2021-06-08T19:36:26.080Z] Detecting Git and Git LFS: started
+[2021-06-08T19:36:32.356Z] Detected Git: 2.30.1
+[2021-06-08T19:36:32.361Z] Detected Git LFS: 2.13.3
+[2021-06-08T19:36:32.547Z] Open repository /Users/panda/code/amp/pandas4000/: started.
+[2021-06-08T19:36:32.562Z] Set profile setting ["externalEditor"] to "Atom": started.
+[2021-06-08T19:36:32.672Z] Set profile setting ["externalEditor"] to "Atom": finished. gk-log://duration?t=110
+[2021-06-08T19:36:32.683Z] Open repository /Users/panda/code/amp/pandas4000/: failed to resolve path '/Users/panda/code/amp/pandas4000': No such file or directory
+[2021-06-08T19:36:32.689Z] Open repository: finished with errors. gk-log://duration?t=142
+[2021-06-08T19:36:32.691Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"bb4b6849-f7cd-4506-b5db-4d0993edf0cd","type":"NEW"},{"id":"1b400470-f359-45d6-b385-82e21d922266","type":"RELEASE_NOTES"}],"selectedTabId":"bb4b6849-f7cd-4506-b5db-4d0993edf0cd"}: started.
+[2021-06-08T19:36:32.693Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"bb4b6849-f7cd-4506-b5db-4d0993edf0cd","type":"NEW"},{"id":"1b400470-f359-45d6-b385-82e21d922266","type":"RELEASE_NOTES"}],"selectedTabId":"bb4b6849-f7cd-4506-b5db-4d0993edf0cd"}: finished. gk-log://duration?t=2
+[2021-06-08T19:36:34.529Z] Detecting Git and Git LFS: finished gk-log://duration?t=8449
+[2021-06-08T19:36:54.746Z] Send usage data to Axosoft: started.
+[2021-06-08T19:36:54.888Z] Send usage data to Axosoft: unauthorized
+[2021-06-08T19:36:54.893Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=147
+[2021-06-08T19:39:53.527Z] Open repository /Users/dj.daniels/Documents/code/upstart-web-0/: started.
+[2021-06-08T19:40:00.309Z] Open repository: finished. gk-log://duration?t=6782
+[2021-06-08T19:40:00.593Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"bb4b6849-f7cd-4506-b5db-4d0993edf0cd","type":"REPO","repoName":"upstart-web-0","repoPath":"/Users/dj.daniels/Documents/code/upstart-web-0/"},{"id":"1b400470-f359-45d6-b385-82e21d922266","type":"RELEASE_NOTES"}],"selectedTabId":"bb4b6849-f7cd-4506-b5db-4d0993edf0cd"}: started.
+[2021-06-08T19:40:00.597Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"bb4b6849-f7cd-4506-b5db-4d0993edf0cd","type":"REPO","repoName":"upstart-web-0","repoPath":"/Users/dj.daniels/Documents/code/upstart-web-0/"},{"id":"1b400470-f359-45d6-b385-82e21d922266","type":"RELEASE_NOTES"}],"selectedTabId":"bb4b6849-f7cd-4506-b5db-4d0993edf0cd"}: finished. gk-log://duration?t=4
+[2021-06-08T19:40:17.861Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"1b400470-f359-45d6-b385-82e21d922266","type":"RELEASE_NOTES"}],"selectedTabId":"1b400470-f359-45d6-b385-82e21d922266"}: started.
+[2021-06-08T19:40:17.864Z] Set profile setting ["tabInfo"] to {"tabs":[{"id":"1b400470-f359-45d6-b385-82e21d922266","type":"RELEASE_NOTES"}],"selectedTabId":"1b400470-f359-45d6-b385-82e21d922266"}: finished. gk-log://duration?t=3
+[2021-06-09T19:36:54.849Z] Send usage data to Axosoft: started.
+[2021-06-09T19:36:55.323Z] Send usage data to Axosoft: unauthorized
+[2021-06-09T19:36:55.327Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=477
+[2021-06-10T19:36:55.670Z] Send usage data to Axosoft: started.
+[2021-06-10T19:36:55.814Z] Send usage data to Axosoft: unauthorized
+[2021-06-10T19:36:55.819Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=149
+[2023-02-03T21:39:15.927Z] Detecting Git and Git LFS: started
+[2023-02-03T21:39:16.367Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"1b400470-f359-45d6-b385-82e21d922266","tabs":[{"id":"1b400470-f359-45d6-b385-82e21d922266","type":"RELEASE_NOTES"}]}: started.
+[2023-02-03T21:39:16.371Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"1b400470-f359-45d6-b385-82e21d922266","tabs":[{"id":"1b400470-f359-45d6-b385-82e21d922266","type":"RELEASE_NOTES"}]}: finished. gk-log://duration?t=4
+[2023-02-03T21:39:16.473Z] Detected Git: git version 2.39.1.2.39.1
+[2023-02-03T21:39:16.475Z] Detected Git LFS: git-lfs/3.3.0 (GitHub; darwin arm64; go 1.19.3).3.3.0
+[2023-02-03T21:39:16.479Z] Detecting Git and Git LFS: finished gk-log://duration?t=552
+[2023-02-03T21:39:45.526Z] Send usage data to Axosoft: started.
+[2023-02-03T21:39:45.603Z] Send usage data to Axosoft: bad request
+[2023-02-03T21:39:45.606Z] Send usage data to Axosoft: finished with errors. gk-log://duration?t=80
+[2023-02-03T21:44:15.042Z] Socket emission error: no socket found to emit.
+[2023-02-03T21:49:15.044Z] Socket emission error: no socket found to emit.
+[2023-02-03T21:54:15.043Z] Socket emission error: no socket found to emit.
+[2023-02-03T21:59:15.052Z] Socket emission error: no socket found to emit.
+[2023-02-03T22:04:15.064Z] Socket emission error: no socket found to emit.
+[2023-02-03T22:09:15.067Z] Socket emission error: no socket found to emit.
+[2023-02-03T22:14:15.074Z] Socket emission error: no socket found to emit.
+[2023-02-03T22:19:15.078Z] Socket emission error: no socket found to emit.
+[2023-02-03T22:24:15.031Z] Socket emission error: no socket found to emit.
+[2023-02-03T22:29:15.032Z] Socket emission error: no socket found to emit.
+[2023-02-03T22:34:15.033Z] Socket emission error: no socket found to emit.
+[2023-02-03T22:39:15.040Z] Socket emission error: no socket found to emit.
+[2023-02-03T22:44:15.042Z] Socket emission error: no socket found to emit.
+[2023-02-03T22:49:15.112Z] Socket emission error: no socket found to emit.
+[2023-02-03T22:54:15.119Z] Socket emission error: no socket found to emit.
+[2023-02-03T22:59:15.125Z] Socket emission error: no socket found to emit.
+[2023-02-03T23:04:15.130Z] Socket emission error: no socket found to emit.
+[2023-02-03T23:09:15.135Z] Socket emission error: no socket found to emit.
+[2023-02-03T23:14:15.151Z] Socket emission error: no socket found to emit.
+[2023-02-03T23:19:15.157Z] Socket emission error: no socket found to emit.
+[2023-02-03T23:24:15.166Z] Socket emission error: no socket found to emit.
+[2023-02-03T23:29:15.170Z] Socket emission error: no socket found to emit.
+[2023-02-03T23:34:15.176Z] Socket emission error: no socket found to emit.
+[2023-02-03T23:39:15.190Z] Socket emission error: no socket found to emit.
+[2023-02-03T23:44:15.203Z] Socket emission error: no socket found to emit.
+[2023-02-03T23:49:15.210Z] Socket emission error: no socket found to emit.
+[2023-02-03T23:54:15.223Z] Socket emission error: no socket found to emit.
+[2023-02-03T23:59:15.234Z] Socket emission error: no socket found to emit.
+[2023-02-04T00:04:15.234Z] Socket emission error: no socket found to emit.
+[2023-02-04T00:09:15.247Z] Socket emission error: no socket found to emit.
+[2023-02-04T00:14:15.249Z] Socket emission error: no socket found to emit.
+[2023-02-04T00:19:15.257Z] Socket emission error: no socket found to emit.
+[2023-02-04T00:24:15.268Z] Socket emission error: no socket found to emit.
+[2023-02-04T00:29:15.280Z] Socket emission error: no socket found to emit.
+[2023-02-04T00:34:15.277Z] Socket emission error: no socket found to emit.
+[2023-02-04T00:39:15.279Z] Socket emission error: no socket found to emit.
+[2023-02-04T00:44:15.287Z] Socket emission error: no socket found to emit.
+[2023-02-04T00:49:15.291Z] Socket emission error: no socket found to emit.
+[2023-02-04T00:54:15.298Z] Socket emission error: no socket found to emit.
+[2023-02-04T00:59:15.299Z] Socket emission error: no socket found to emit.
+[2023-02-04T01:04:15.306Z] Socket emission error: no socket found to emit.
+[2023-02-04T01:09:15.312Z] Socket emission error: no socket found to emit.
+[2023-02-04T01:14:15.314Z] Socket emission error: no socket found to emit.
+[2023-02-04T01:19:15.320Z] Socket emission error: no socket found to emit.
+[2023-02-04T01:24:15.323Z] Socket emission error: no socket found to emit.
+[2023-02-04T01:29:15.323Z] Socket emission error: no socket found to emit.
+[2023-02-04T01:34:15.329Z] Socket emission error: no socket found to emit.
+[2023-02-04T01:39:15.337Z] Socket emission error: no socket found to emit.
+[2023-02-04T01:44:15.340Z] Socket emission error: no socket found to emit.
+[2023-02-04T01:49:15.345Z] Socket emission error: no socket found to emit.
+[2023-02-04T01:54:15.347Z] Socket emission error: no socket found to emit.
+[2023-02-04T01:59:15.353Z] Socket emission error: no socket found to emit.
+[2023-02-04T02:04:15.355Z] Socket emission error: no socket found to emit.
+[2023-02-04T02:09:15.361Z] Socket emission error: no socket found to emit.
+[2023-02-04T02:14:15.363Z] Socket emission error: no socket found to emit.
+[2023-02-04T02:19:15.366Z] Socket emission error: no socket found to emit.
+[2023-02-04T02:24:15.374Z] Socket emission error: no socket found to emit.
+[2023-02-04T02:29:15.384Z] Socket emission error: no socket found to emit.
+[2023-02-04T02:34:15.394Z] Socket emission error: no socket found to emit.
+[2023-02-04T02:39:15.405Z] Socket emission error: no socket found to emit.
+[2023-02-04T02:44:15.413Z] Socket emission error: no socket found to emit.
+[2023-02-04T02:49:15.412Z] Socket emission error: no socket found to emit.
+[2023-02-04T02:54:15.422Z] Socket emission error: no socket found to emit.
+[2023-02-04T02:59:15.432Z] Socket emission error: no socket found to emit.
+[2023-02-04T03:04:15.440Z] Socket emission error: no socket found to emit.
+[2023-02-04T03:09:15.453Z] Socket emission error: no socket found to emit.
+[2023-02-04T03:14:15.427Z] Socket emission error: no socket found to emit.
+[2023-02-04T03:19:15.429Z] Socket emission error: no socket found to emit.
+[2023-02-04T03:21:58.204Z] Detecting Git and Git LFS: started
+[2023-02-04T03:21:58.517Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"1b400470-f359-45d6-b385-82e21d922266","tabs":[{"id":"1b400470-f359-45d6-b385-82e21d922266","type":"RELEASE_NOTES"}]}: started.
+[2023-02-04T03:21:58.520Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"1b400470-f359-45d6-b385-82e21d922266","tabs":[{"id":"1b400470-f359-45d6-b385-82e21d922266","type":"RELEASE_NOTES"}]}: finished. gk-log://duration?t=3
+[2023-02-04T03:21:58.593Z] Detected Git: git version 2.37.1.2.37.1
+[2023-02-04T03:21:58.595Z] Did not detect Git LFS
+[2023-02-04T03:23:27.469Z] Detecting Git and Git LFS: started
+[2023-02-04T03:23:27.872Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"1b400470-f359-45d6-b385-82e21d922266","tabs":[{"id":"1b400470-f359-45d6-b385-82e21d922266","type":"RELEASE_NOTES"}]}: started.
+[2023-02-04T03:23:27.879Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"1b400470-f359-45d6-b385-82e21d922266","tabs":[{"id":"1b400470-f359-45d6-b385-82e21d922266","type":"RELEASE_NOTES"}]}: finished. gk-log://duration?t=7
+[2023-02-04T03:23:27.966Z] Detected Git: git version 2.37.1.2.37.1
+[2023-02-04T03:23:27.972Z] Did not detect Git LFS
+[2023-02-04T03:58:54.824Z] Detecting Git and Git LFS: started
+[2023-02-04T03:58:55.289Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"1b400470-f359-45d6-b385-82e21d922266","tabs":[{"id":"1b400470-f359-45d6-b385-82e21d922266","type":"RELEASE_NOTES"}]}: started.
+[2023-02-04T03:58:55.297Z] Set profile setting ["tabInfo"] to {"permanentTabs":{"PROJECTS":{"selectedProject":null,"closed":false}},"selectedTabId":"1b400470-f359-45d6-b385-82e21d922266","tabs":[{"id":"1b400470-f359-45d6-b385-82e21d922266","type":"RELEASE_NOTES"}]}: finished. gk-log://duration?t=8
+[2023-02-04T03:58:55.305Z] Detected Git: git version 2.37.1.2.37.1
+[2023-02-04T03:58:55.309Z] Did not detect Git LFS
+[2023-02-04T04:03:53.801Z] Socket emission error: no socket found to emit.
+[2023-02-04T04:08:53.802Z] Socket emission error: no socket found to emit.

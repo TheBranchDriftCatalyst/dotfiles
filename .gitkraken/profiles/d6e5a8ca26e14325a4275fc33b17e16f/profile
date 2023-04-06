@@ -1,0 +1,27 @@
+{
+  "userEmail": "djdanielsh@gmail.com",
+  "userName": "Commando Panda",
+  "fileNodeList": {
+    "viewMode": "tree_view"
+  },
+  "gpg": {
+    "commitGpgSign": false,
+    "userSigningKey": "F622411C163BE11A"
+  },
+  "tabInfo": {
+    "permanentTabs": {
+      "PROJECTS": {
+        "selectedProject": null,
+        "closed": false
+      }
+    },
+    "selectedTabId": "1b400470-f359-45d6-b385-82e21d922266",
+    "tabs": [
+      {
+        "id": "1b400470-f359-45d6-b385-82e21d922266",
+        "type": "RELEASE_NOTES"
+      }
+    ]
+  },
+  "externalEditor": "Atom"
+}

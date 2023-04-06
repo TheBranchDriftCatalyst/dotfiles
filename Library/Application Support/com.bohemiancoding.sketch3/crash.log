@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>{
+  "type": "plugin run end",
+  "identifier": "unsplash/dataprovider",
+  "version": "1.0.3"
+}</string>
+	<string>instant OpenDocument {
+    document = "&lt;MSDocument: 0x7fb452785110&gt;";
+    selection =     (
+    );
+}</string>
+	<string>instant HandlerGotFocus {
+    name = Normal;
+}</string>
+	<string>begin ToggleRulers {
+    action = "&lt;MSToggleRulersAction: 0x600003b32680&gt;";
+    document = "&lt;MSDocument: 0x7fb452785110&gt;";
+}</string>
+	<string>finish ToggleRulers {
+    action = "&lt;MSToggleRulersAction: 0x600003b32680&gt;";
+    document = "&lt;MSDocument: 0x7fb452785110&gt;";
+}</string>
+	<string>begin SelectionChanged {
+    document = "&lt;MSDocument: 0x7fb452785110&gt;";
+    newSelection =     (
+        "&lt;MSBitmapLayer: 0x7fb45249a2f0&gt; Scan Jun 5, 2019 at 8.49 AM (1E94F546-09E6-449B-B06B-A72578105DD8)"
+    );
+    oldSelection =     (
+    );
+}</string>
+	<string>finish SelectionChanged {
+    document = "&lt;MSDocument: 0x7fb452785110&gt;";
+    newSelection =     (
+        "&lt;MSBitmapLayer: 0x7fb45249a2f0&gt; Scan Jun 5, 2019 at 8.49 AM (1E94F546-09E6-449B-B06B-A72578105DD8)"
+    );
+    oldSelection =     (
+    );
+}</string>
+	<string>begin SelectionChanged {
+    document = "&lt;MSDocument: 0x7fb452785110&gt;";
+    newSelection =     (
+        "&lt;MSBitmapLayer: 0x7fb45249a2f0&gt; Scan Jun 5, 2019 at 8.49 AM (1E94F546-09E6-449B-B06B-A72578105DD8)"
+    );
+    oldSelection =     (
+        "&lt;MSBitmapLayer: 0x7fb45249a2f0&gt; Scan Jun 5, 2019 at 8.49 AM (1E94F546-09E6-449B-B06B-A72578105DD8)"
+    );
+}</string>
+	<string>finish SelectionChanged {
+    document = "&lt;MSDocument: 0x7fb452785110&gt;";
+    newSelection =     (
+        "&lt;MSBitmapLayer: 0x7fb45249a2f0&gt; Scan Jun 5, 2019 at 8.49 AM (1E94F546-09E6-449B-B06B-A72578105DD8)"
+    );
+    oldSelection =     (
+        "&lt;MSBitmapLayer: 0x7fb45249a2f0&gt; Scan Jun 5, 2019 at 8.49 AM (1E94F546-09E6-449B-B06B-A72578105DD8)"
+    );
+}</string>
+	<string>begin Log {
+    action = "&lt;MSLogAction: 0x600002e4acd0&gt;";
+    command = "&lt;MSPluginCommand: 0x600000e10800&gt;";
+    level = error;
+    payload =     (
+        "Error: Error Domain=NSCocoaErrorDomain Code=4 \"\U201ccom.sketchapp.unsplash-plugin\U201d couldn\U2019t be removed.\" UserInfo={NSFilePath=/var/folders/zh/rqk5gffj13q41khjct43wkxc0000gp/T/com.sketchapp.unsplash-plugin, NSUserStringVariant=(\n    Remove\n), NSUnderlyingError=0x600002fa95c0 {Error Domain=NSPOSIXErrorDomain Code=2 \"No such file or directory\"}}"
+    );
+    stringValue = "{ rmdirSync@/Users/DJ/dotfiles/mackup/Library/Application Support/com.bohemiancoding.sketch3/Plugins/unsplash.sketchplugin/Contents/Sketch/DataProvider.js:283:20\nonShutdown@/Users/DJ/dotfiles/mackup/Library/Application Support/com.bohemiancoding.sketch3/Plugins/unsplash.sketchplugin/Contents/Sketch/DataProvider.js:1202:17\n__skpm_run@/Users/DJ/dotfiles/mackup/Library/Application Support/com.bohemiancoding.sketch3/Plugins/unsplash.sketchplugin/Contents/Sketch/DataProvider.js:1415:17\n__skpm_run@[native code]\n  line: 283,\n  column: 20,\n  sourceURL: '/Users/DJ/dotfiles/mackup/Library/Application Support/com.bohemiancoding.sketch3/Plugins/unsplash.sketchplugin/Contents/Sketch/DataProvider.js' }";
+}</string>
+	<string>finish Log {
+    action = "&lt;MSLogAction: 0x600002e4acd0&gt;";
+    command = "&lt;MSPluginCommand: 0x600000e10800&gt;";
+    level = error;
+    payload =     (
+        "Error: Error Domain=NSCocoaErrorDomain Code=4 \"\U201ccom.sketchapp.unsplash-plugin\U201d couldn\U2019t be removed.\" UserInfo={NSFilePath=/var/folders/zh/rqk5gffj13q41khjct43wkxc0000gp/T/com.sketchapp.unsplash-plugin, NSUserStringVariant=(\n    Remove\n), NSUnderlyingError=0x600002fa95c0 {Error Domain=NSPOSIXErrorDomain Code=2 \"No such file or directory\"}}"
+    );
+    stringValue = "{ rmdirSync@/Users/DJ/dotfiles/mackup/Library/Application Support/com.bohemiancoding.sketch3/Plugins/unsplash.sketchplugin/Contents/Sketch/DataProvider.js:283:20\nonShutdown@/Users/DJ/dotfiles/mackup/Library/Application Support/com.bohemiancoding.sketch3/Plugins/unsplash.sketchplugin/Contents/Sketch/DataProvider.js:1202:17\n__skpm_run@/Users/DJ/dotfiles/mackup/Library/Application Support/com.bohemiancoding.sketch3/Plugins/unsplash.sketchplugin/Contents/Sketch/DataProvider.js:1415:17\n__skpm_run@[native code]\n  line: 283,\n  column: 20,\n  sourceURL: '/Users/DJ/dotfiles/mackup/Library/Application Support/com.bohemiancoding.sketch3/Plugins/unsplash.sketchplugin/Contents/Sketch/DataProvider.js' }";
+}</string>
+</array>
+</plist>

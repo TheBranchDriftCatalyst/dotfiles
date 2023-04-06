@@ -1,0 +1,32 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+  "exception-reporting":
+    userId: "617cc42f-7956-459a-a513-75e7d9275d64"
+  "linter-shellcheck":
+    enableNotice: true
+  "linter-ui-default":
+    panelHeight: 300
+    showPanel: true
+  "package-sync":
+    createOnChange: true
+    forceOverwrite: true
+  "remote-ftp":
+    connector: {}
+    statusbar:
+      enable: true
+  welcome:
+    showOnStartup: false
+".breakpoints.hydrogen":
+  editor:
+    autoIndentOnPaste: false
+".editorconfig.source":
+  editor:
+    tabLength: 4
+".reason.source":
+  editor:
+    preferredLineLength: 110

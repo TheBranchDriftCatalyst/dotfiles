@@ -1,0 +1,73 @@
+{
+  "lastUpgradeScriptRun": "v9.0.0",
+  "appId": "8149453d12fde3c987f5ceb011360abe56307d17",
+  "registration": {
+    "email": "djdanielsh@gmail.com",
+    "name": "Commando Panda",
+    "status": null,
+    "trialStatus": null,
+    "loginType": null,
+    "date": "2018-07-21T19:17:00.583Z",
+    "EULA": {
+      "version": "0.0.0",
+      "status": "has_not_agreed"
+    }
+  },
+  "userId": null,
+  "licensedFeatures": [],
+  "userFeatures": [
+    {
+      "betaFeaturesEnabled": false,
+      "name": "gitkraken"
+    },
+    {
+      "betaFeaturesEnabled": false,
+      "name": "glo"
+    }
+  ],
+  "windowSettings": {
+    "x": 541,
+    "y": 25,
+    "width": 1251,
+    "height": 800,
+    "fullScreen": false,
+    "maximized": false
+  },
+  "lastVersion": "7.6.1",
+  "lastReleaseNotesDisplayed": "9.0.1",
+  "fuzzyFinderMetadata": {
+    "itemMetadata": {
+      "OPEN_REPO": {
+        "openRepo-/Users/dj.daniels/Documents/code/upstart-web-0": {
+          "id": "openRepo-/Users/dj.daniels/Documents/code/upstart-web-0",
+          "timestamps": [
+            1623181193458
+          ],
+          "total": 1
+        }
+      }
+    }
+  },
+  "ui": {
+    "toolbar": {
+      "showGlo": true,
+      "showTimelines": true
+    }
+  },
+  "allowTeamVisibilityByOrgId": {},
+  "postTeamVisibilityOnce": false,
+  "sslWhitelist": [],
+  "userMilestones": {
+    "firstRepoOpened": true,
+    "firstAppOpen": true,
+    "firstLoginRegister": true,
+    "completedNewUserOnboarding": true,
+    "firstProfileCreated": true,
+    "completedFirstRepoModal": true,
+    "unregisteredId": "62bcace0-0cf9-429a-a923-af4292dfeb8f"
+  },
+  "aliases": {
+    "repo": {},
+    "tabs": {}
+  }
+}

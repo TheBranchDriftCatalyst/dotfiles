@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Contents</key>
+	<dict>
+		<key>Recovered files</key>
+		<dict>
+			<key>File ID</key>
+			<string>13964372</string>
+			<key>Predicted Process Time</key>
+			<real>63113904000</real>
+		</dict>
+	</dict>
+	<key>File Map</key>
+	<dict>
+		<key>13964372</key>
+		<dict>
+			<key>Name</key>
+			<string>Recovered files</string>
+		</dict>
+	</dict>
+	<key>Last Poll Time</key>
+	<date>2018-09-13T03:08:02Z</date>
+	<key>Version</key>
+	<integer>3</integer>
+</dict>
+</plist>
