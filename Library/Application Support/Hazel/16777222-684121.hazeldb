@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Contents</key>
+	<dict>
+		<key>.DS_Store</key>
+		<dict>
+			<key>File ID</key>
+			<string>959061</string>
+		</dict>
+		<key>Installers Etc</key>
+		<dict>
+			<key>Date Matched</key>
+			<date>2018-09-24T01:02:08Z</date>
+			<key>File ID</key>
+			<string>4397967</string>
+			<key>Predicted Process Time</key>
+			<real>63113904000</real>
+			<key>Rule Signature</key>
+			<array>
+				<string>{NOT dateAdded hazelIsInTheLast: 4 Weeks}:{(color:1,{
+})}</string>
+			</array>
+		</dict>
+		<key>New Folder With Items</key>
+		<dict>
+			<key>Date Matched</key>
+			<date>2018-09-06T16:43:02Z</date>
+			<key>File ID</key>
+			<string>12532452</string>
+			<key>Predicted Process Time</key>
+			<real>559666402</real>
+		</dict>
+		<key>Phoenix-FirestormOS-Releasex64_5_1_7_55786_x86_64.dmg</key>
+		<dict>
+			<key>Date Matched</key>
+			<date>2018-09-21T21:45:12Z</date>
+			<key>File ID</key>
+			<string>16338133</string>
+			<key>Predicted Process Time</key>
+			<real>561678026</real>
+		</dict>
+		<key>set-theory-and-algebra-cs.pdf</key>
+		<dict>
+			<key>Date Matched</key>
+			<date>2018-09-06T16:43:02Z</date>
+			<key>File ID</key>
+			<string>12471935</string>
+			<key>Predicted Process Time</key>
+			<real>559472789</real>
+		</dict>
+		<key>w_wile263.pdf</key>
+		<dict>
+			<key>Date Matched</key>
+			<date>2018-09-17T16:39:14Z</date>
+			<key>File ID</key>
+			<string>14841165</string>
+			<key>Predicted Process Time</key>
+			<real>561314349</real>
+		</dict>
+	</dict>
+	<key>File Map</key>
+	<dict>
+		<key>12471935</key>
+		<dict>
+			<key>Name</key>
+			<string>set-theory-and-algebra-cs.pdf</string>
+		</dict>
+		<key>12532452</key>
+		<dict>
+			<key>Name</key>
+			<string>New Folder With Items</string>
+		</dict>
+		<key>14841165</key>
+		<dict>
+			<key>Name</key>
+			<string>w_wile263.pdf</string>
+		</dict>
+		<key>16338133</key>
+		<dict>
+			<key>Name</key>
+			<string>Phoenix-FirestormOS-Releasex64_5_1_7_55786_x86_64.dmg</string>
+		</dict>
+		<key>4397967</key>
+		<dict>
+			<key>Name</key>
+			<string>Installers Etc</string>
+		</dict>
+		<key>959061</key>
+		<dict>
+			<key>Name</key>
+			<string>.DS_Store</string>
+		</dict>
+	</dict>
+	<key>Last Poll Time</key>
+	<date>2018-09-24T01:02:08Z</date>
+	<key>Version</key>
+	<integer>3</integer>
+</dict>
+</plist>

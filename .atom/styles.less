@@ -1,0 +1,138 @@
+/*
+ * Your Stylesheet
+ *
+ * This stylesheet is loaded when Atom starts up and is reloaded automatically
+ * when it is changed and saved.
+ *
+ * Add your own CSS or Less to fully customize Atom.
+ * If you are unfamiliar with Less, you can read more about it here:
+ * http://lesscss.org
+ */
+
+@glow-border-color: #1fcc09;
+@unsaved-tab-glow-color: rgba(205, 46, 46,.50);
+@indent-guide: darken(grey, 25%);
+@indent-guide-stack: darken(grey, 5%);
+@indent-guide-active: #1fcc09;
+@master-branch-color: red;
+
+.data-explorer-container {
+	color: black;
+}
+
+.indent-guide-improved {
+	background-color: @indent-guide;
+
+	&.indent-guide-stack {
+		background-color: @indent-guide-stack;
+
+		&.indent-guide-active {
+			background-color: @indent-guide-active;
+		}
+	}
+}
+// Remove that stupid gutter that makes it look like everything is indented
+.atom-text-editor .scroll-view,
+atom-text-editor .scroll-view {
+	padding-left: 2px;
+}
+
+li.tab.sortable {
+	// TODO: add something like this
+	// :not(.title[content='untitled']
+	&.modified {
+		font-style: italic;
+		color: lighten(@unsaved-tab-glow-color, 30%);
+		box-shadow: inset 0 0 10px 3px lighten(@unsaved-tab-glow-color, 30%);
+	}
+}
+// Make the selected item in the command palette and fuzzy finder a bit more clear
+minimap-codeglance {
+	box-shadow: 0 0 15px @glow-border-color;
+}
+
+// .command-palette {
+// 	li.selected {
+// 		box-shadow: inset 0 0 10px 3px @glow-border-color;
+// 	}
+// }
+
+// .fuzzy-finder {
+// 	ol.list-group li.two-lines {
+// 		&.selected {
+// 			box-shadow: inset 0 0 10px 3px @glow-border-color;
+// 		}
+//
+// 		div.status.status-modified.icon.icon-diff-modified {}
+//
+// 		div.primary-line.file.icon {}
+//
+// 		div.secondary-line.path {
+// 			font-size: 10px;
+// 		}
+//
+// 		div + div {
+// 			margin-left: 3px;
+// 		}
+// 	}
+// }
+
+// .tab-foldername-index__flex-wrapper {
+// 	justify-content: space-evenly
+// }
+//
+// .fuzzy-finder {
+// 	ol.list-group {
+// 		secondary-line.path {
+// 			font-size: 10px !important;
+// 		}
+// 	}
+// }
+
+// // The color of the scope lines
+// .tree-view.tree-view-scope-lines {
+//   .list-item + .list-tree {
+//     &:before {
+//       background: @indent-guide
+//     }
+//   }
+// }
+
+.tree-view-git-status.git-branch-master .branch-label {
+  color: @master-branch-color;
+  text-shadow: -1px 0px 8px @master-branch-color;
+}
+
+// Hightlight the matched brackets for current cursor scope
+@bright-color: fade(@glow-border-color, 100%);
+@dim-color: fade(@glow-border-color, 60%);
+@keyframes glow {
+	to {
+		background: @dim-color;
+		border-radius: 2px;
+		box-shadow: 0 0 1px 1px @dim-color;
+	}
+}
+
+// TODO: remove shadow dom reference
+// atom-text-editor.editor .bracket-matcher .region {
+// 	background: @glow-border-color;
+// 	border-radius: 2px;
+// 	// padding: px 2px 8px;
+// 	animation: glow 0.75s steps(10, start) infinite alternate;
+// 	box-shadow: 0 0 1px 1px @glow-border-color;
+// }
+
+// span.snippet-completion {
+// 	color: white !important;
+// }
+
+// ol.list-group .two-lines {
+// 	border: 1px solid red;
+// 	.primary-line {
+// 		border: 1px solid green;
+// 	}
+// 	.secondary-line {
+// 		border: 1px solid blue;
+// 	}
+// }

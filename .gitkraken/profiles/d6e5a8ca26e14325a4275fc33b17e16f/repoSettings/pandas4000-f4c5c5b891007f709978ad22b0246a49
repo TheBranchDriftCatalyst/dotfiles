@@ -1,0 +1,21 @@
+{
+  "lastPrivateRepoPrompt": "Wed Aug 29 2018 08:56:38 GMT-0700 (PDT)",
+  "remoteParents": {
+    "github": {
+      "djdaniels90": {
+        "pandas4000": {
+          "hostingServiceType": "github",
+          "owner": "djdaniels90",
+          "name": "pandas4000"
+        }
+      },
+      "kriasoft": {
+        "react-starter-kit": {
+          "hostingServiceType": "github",
+          "owner": "kriasoft",
+          "name": "react-starter-kit"
+        }
+      }
+    }
+  }
+}

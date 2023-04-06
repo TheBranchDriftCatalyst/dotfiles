@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.sketchapp.plugins.enabled</key>
+	<string>[com.mludowise.htmlexport(0.2), com.google.ux.material.spec_tools(1.10.226247568), unsplash(1.0.3)]</string>
+	<key>disabled</key>
+	<string>[]</string>
+	<key>disabledPlugins</key>
+	<string>{
+    "com.google.ux.material.spec_tools": "1.10.226247568"
+  }</string>
+	<key>enabledPlugins</key>
+	<string>{
+    "com.mludowise.htmlexport": "0.2",
+    "unsplash": "1.0.3"
+  }</string>
+</dict>
+</plist>

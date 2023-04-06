@@ -1,0 +1,14 @@
+{
+  "remoteParents": {},
+  "collapsedBranchFolders": [],
+  "expandedSections": [
+    "GITFLOW",
+    "LOCAL",
+    "STASHES",
+    "PULL_REQUESTS",
+    "ISSUES",
+    "TEAM_VISIBILITY",
+    "SUBMODULES",
+    "GITHUB_ACTIONS"
+  ]
+}
